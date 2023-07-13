@@ -1,3 +1,3 @@
 services:
-  ffc-template-node:
+  bng-techspike-calculation:
     command: npm run start:debug
